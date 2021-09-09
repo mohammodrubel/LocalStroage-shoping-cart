@@ -54,3 +54,5 @@ const placeOrder = ()=>{
     document.getElementById('displayProduct').innerText='';
     localStorage.removeItem('cart')
 }
+
+// 38-8 (advanced) 
